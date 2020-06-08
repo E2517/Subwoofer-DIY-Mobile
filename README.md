@@ -1,6 +1,6 @@
 # ![superwooper logo][]
 
-A JavaScript Web application so you can calculate the right volume and F3 of a DIY Subwoofer and build it.
+An Android mobile application so you can calculate the right volume and F3 of a DIY Subwoofer and build it.
 
 ### Platform
 
