@@ -17,6 +17,10 @@ An Android mobile application so you can calculate the right volume and F3 of a 
 
 ![thielsmallparameters]
 
+## Mobile
+
+![mobile]
+
 ## e2517
 
 [superwooper logo]: http://achoweb.es/wp-content/uploads/2020/06/superwooper.png
@@ -26,3 +30,4 @@ An Android mobile application so you can calculate the right volume and F3 of a 
 [superwooper graph]: http://achoweb.es/wp-content/uploads/2020/06/googlegraph.png
 [calculate subwoofer diy]: http://www.superwooper.com/volumen/subwoofer.html
 [thielsmallparameters]: http://achoweb.es/wp-content/uploads/2020/06/ts.png
+[mobile]: http://achoweb.es/wp-content/uploads/2020/06/mobile.png
